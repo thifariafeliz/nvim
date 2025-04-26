@@ -9,6 +9,7 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
+
 require("lazy").setup({
     require("plugins.lsp"),
     require("plugins.treesitter"),
@@ -31,27 +32,11 @@ require("lazy").setup({
     require("plugins.blink"),
     require("plugins.lspconfig"),
     --require("plugins.luasnip"),
-
-    -- Temas
-    { "sainnhe/gruvbox-material" },
-    { "sainnhe/everforest" },
-    { "rebelot/kanagawa.nvim" },
-    { "catppuccin/nvim" },
-    { "Mofiqul/dracula.nvim" },
-    { "morhetz/gruvbox" },
-    { "vague2k/vague.nvim" },
-    { "folke/tokyonight.nvim" },
-    { "comfysage/evergarden" },
-    { "AlexvZyl/nordic.nvim" },
-    { "rose-pine/neovim" },
-    { "shaunsingh/nord.nvim" },
-    { "hardselius/warlock" },
-    { "jnurmine/Zenburn" },
-    { "yazeed1s/oh-lucy.nvim" },
-    { "ilof2/posterpole.nvim" },
-    { "ayu-theme/ayu-vim" },
+    require("plugins.themes"),
 
     { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} },
     { "tjdevries/colorbuddy.nvim"}
-
+    
+}, {
+        defaults = { lazy = true },
 })

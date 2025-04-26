@@ -7,6 +7,7 @@ require("config.telescopekm")
 --require("config.luasnipkm")
 require("config.themery")
 require("config.neo-tree")
+require("config.trouble")
 
 --[[vim.defer_fn(function()
     vim.cmd("colorscheme posterpole")
