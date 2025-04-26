@@ -25,6 +25,7 @@ require("lazy").setup({
     require("plugins.tscomments"),
     require("plugins.nvimsurround"),
     --require("plugins.nvimufo"),
+    require("plugins.themes"),
     require("plugins.nvimtsautotag"),
     require("plugins.livepreview"),
     require("plugins.barbar"),
@@ -32,7 +33,7 @@ require("lazy").setup({
     require("plugins.blink"),
     require("plugins.lspconfig"),
     --require("plugins.luasnip"),
-    require("plugins.themes"),
+    require("plugins.markview"),
 
     { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} },
     { "tjdevries/colorbuddy.nvim"}
