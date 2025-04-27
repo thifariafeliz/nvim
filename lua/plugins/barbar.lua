@@ -12,4 +12,5 @@ return {
       -- …etc.
     },
     version = '^1.9.1', -- optional: only update when a new 1.x version is released
+    event = "BufReadPost",
   } 
