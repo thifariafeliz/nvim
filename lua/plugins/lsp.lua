@@ -21,7 +21,7 @@ return{
                     }
                 }
             })
-        end, 
+        end,
         })
 
         vim.diagnostic.config({
