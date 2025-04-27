@@ -30,5 +30,6 @@ return{
     end,
     dependencies = {
         "williamboman/mason-lspconfig.nvim"
-    }
+    },
+  lazy = false,
 }

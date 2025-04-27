@@ -30,5 +30,6 @@ return {
       config.capabilities = require('blink.cmp').get_lsp_capabilities(config.capabilities or {})
       lspconfig[server].setup(config)
     end
-  end
+  end,
+  lazy = false,
 }

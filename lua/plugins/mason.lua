@@ -8,5 +8,6 @@ return {
             automatic_installation = true,
         })
     end,
-    dependencies = { "williamboman/mason-lspconfig.nvim" }
+    dependencies = { "williamboman/mason-lspconfig.nvim" },
+  lazy = false,
 }
