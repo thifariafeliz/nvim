@@ -3,6 +3,7 @@
   "ayu-vim": { "branch": "master", "commit": "01faacb4cb76e8cf72ad9858c581d80876260ab3" },
   "barbar.nvim": { "branch": "master", "commit": "53b5a2f34b68875898f0531032fbf090e3952ad7" },
   "blink.cmp": { "branch": "main", "commit": "d695d77ebfcdf4f770f323d0e11618417a911484" },
+  "ccc.nvim": { "branch": "main", "commit": "af2cf5a963f401aad868c065222ee13d4bbc9050" },
   "colorbuddy.nvim": { "branch": "master", "commit": "8b968581e5c19d22a861d5f3fe5dbd83394fa681" },
   "dracula.nvim": { "branch": "main", "commit": "96c9d19ce81b26053055ad6f688277d655b3f7d2" },
   "everforest": { "branch": "master", "commit": "ffa5a2032fd41903135fa829bd4b49ba2e1d5d18" },

@@ -34,8 +34,9 @@ require("lazy").setup({
     require("plugins.lspconfig"),
     --require("plugins.luasnip"),
     require("plugins.markview"),
+    require("plugins.ccc"),
 
-    { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} },
+    { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {}, event = "BufReadPost" },
     { "tjdevries/colorbuddy.nvim"}
     
 }, {
