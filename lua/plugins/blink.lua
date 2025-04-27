@@ -3,6 +3,7 @@ return {
   -- optional: provides snippets for the snippet source
   dependencies = { 'rafamadriz/friendly-snippets' },
   enabled = true,
+  event = "InsertEnter",
 
   -- use a release tag to download pre-built binaries
   version = '1.1.0',

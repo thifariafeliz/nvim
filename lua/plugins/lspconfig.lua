@@ -21,7 +21,14 @@ return {
             },
           },
         },
-      }
+      },
+      pyright = {},
+      ts_ls = {},
+      gopls = {},
+      rust_analyzer = {},
+      cssls = {},
+      html = {},
+      clangd = {},
     }
   },
   config = function(_, opts)

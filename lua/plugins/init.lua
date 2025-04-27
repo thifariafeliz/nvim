@@ -38,7 +38,6 @@ require("lazy").setup({
 
     { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {}, event = "BufReadPost" },
     { "tjdevries/colorbuddy.nvim"}
-    
 }, {
         defaults = { lazy = true },
 })
