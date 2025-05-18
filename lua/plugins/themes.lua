@@ -65,6 +65,10 @@ return {
     },
     {
         "ayu-theme/ayu-vim",
-        lazy = true
+        lazy = true,
+    },
+    {
+      "sainnhe/edge",
+      lazy = true,
     }
 }
