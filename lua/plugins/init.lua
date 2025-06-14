@@ -36,8 +36,9 @@ require("lazy").setup({
     require("plugins.markview"),
     require("plugins.ccc"),
 
+    { "xiyaowong/transparent.nvim", lazy = false },
     { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {}, event = "BufReadPost" },
-    { "tjdevries/colorbuddy.nvim"}
+    { "tjdevries/colorbuddy.nvim" }
 }, {
         defaults = { lazy = true },
 })
