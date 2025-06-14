@@ -8,6 +8,7 @@ require("config.telescopekm")
 require("config.themery")
 require("config.neo-tree")
 require("config.trouble")
+require("config.qmlls")
 
 --[[vim.defer_fn(function()
     vim.cmd("colorscheme posterpole")
