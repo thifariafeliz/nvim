@@ -15,3 +15,6 @@ vim.keymap.set('n', 'P', '"+P', { noremap = true })
 vim.keymap.set('v', 'd', '"+d', { noremap = true })
 vim.keymap.set('n', 'd', '"+d', { noremap = true })
 
+-- Navega verticalmente entre linhas visuais
+vim.api.nvim_set_keymap('n', 'j', 'gj', { noremap = true })
+vim.api.nvim_set_keymap('n', 'k', 'gk', { noremap = true })

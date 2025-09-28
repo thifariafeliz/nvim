@@ -24,6 +24,7 @@ require("themery").setup({
         "oh-lucy-evening",
         "posterpole",
         "edge",
+        "ayu-mirage",
     },
     livePreview = true,
 })

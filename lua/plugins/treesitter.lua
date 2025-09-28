@@ -16,4 +16,7 @@ return {
         require("nvim-ts-autotag").setup({})
     end,
     event = "BufReadPost",
+    dependencies = {
+        "OXY2DEV/markview.nvim"
+  }
 }
