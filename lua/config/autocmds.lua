@@ -5,7 +5,7 @@
 --
 
 vim.api.nvim_create_autocmd("FileType", {
-  pattern = "javascript, typescript, html, css, c, lua",
+  pattern = "javascript, typescript, html, css, lua",
   callback = function()
     vim.bo.shiftwidth = 2
     vim.bo.tabstop = 2
@@ -57,9 +57,9 @@ vim.api.nvim_create_autocmd("FileType", {
 vim.api.nvim_create_autocmd("FileType", {
   pattern = "c",
   callback = function()
-    vim.bo.shiftwidth = 2
-    vim.bo.tabstop = 2
-    vim.bo.softtabstop = 2
+    vim.bo.shiftwidth = 4
+    vim.bo.tabstop = 4
+    vim.bo.softtabstop = 4
     vim.bo.expandtab = true
   end,
 })
