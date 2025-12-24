@@ -25,6 +25,7 @@ require("themery").setup({
         "posterpole",
         "edge",
         "ayu-mirage",
+        "tearout",
     },
     livePreview = true,
 })

@@ -110,5 +110,11 @@ return {
         },
       })
     end
-  }
+  },
+
+  {
+    "leobeosab/tearout.nvim",
+    lazy = true;
+  },
+
 }
