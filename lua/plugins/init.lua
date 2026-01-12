@@ -33,10 +33,12 @@ require("lazy").setup({
     require("plugins.blink"),
     require("plugins.lspconfig"),
     --require("plugins.luasnip"),
-    require("plugins.markview"),
+    --require("plugins.markview"),
     require("plugins.ccc"),
     require("plugins.yuck"),
     require("plugins.comment"),
+    require("plugins.smart_splits"),
+    require("plugins.render_markdown"),
 
     { "xiyaowong/transparent.nvim", lazy = false },
     { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {}, event = "BufReadPost" },

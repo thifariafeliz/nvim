@@ -117,4 +117,14 @@ return {
     lazy = true;
   },
 
+  {
+    "anttikivi/lucid.nvim",
+    lazy = true;
+  },
+
+  {
+    "sderev/alabaster.vim",
+    lazy = true;
+  }
+
 }

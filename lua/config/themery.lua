@@ -26,6 +26,8 @@ require("themery").setup({
         "edge",
         "ayu-mirage",
         "tearout",
+        "lucid",
+        "alabaster-mono",
     },
     livePreview = true,
 })

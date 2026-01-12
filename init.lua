@@ -9,6 +9,7 @@ require("config.themery")
 require("config.neo-tree")
 require("config.trouble")
 require("config.qmlls")
+require("config.smart_splits")
 
 vim.keymap.set("n", "B", "ge", { noremap = false, silent = true } )
 vim.opt.statuscolumn = "%s %{v:lnum} %{v:relnum}"
