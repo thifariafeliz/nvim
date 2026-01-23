@@ -66,11 +66,6 @@ return {
   },
 
   {
-      "jnurmine/Zenburn",
-      lazy = true,
-  },
-
-  {
       "yazeed1s/oh-lucy.nvim",
       lazy = true,
   },
@@ -125,6 +120,13 @@ return {
   {
     "sderev/alabaster.vim",
     lazy = true;
+  },
+
+  {
+    "zenbones-theme/zenbones.nvim",
+    dependencies = "rktjmp/lush.nvim",
+    lazy = false,
+    priority = 1000,
   }
 
 }
