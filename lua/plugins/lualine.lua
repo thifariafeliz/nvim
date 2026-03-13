@@ -53,5 +53,18 @@ return {
         }
       }
     })
+  local aerial = require("aerial")
+
+  require("lualine").setup({
+    sections = {
+      lualine_c = {
+        "filename",
+        {
+          aerial.get_location,
+          cond = aerial.is_available
+        }
+      }
+    }
+  })
   end,
 }

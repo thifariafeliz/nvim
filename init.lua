@@ -10,6 +10,7 @@ require("config.neo-tree")
 require("config.trouble")
 require("config.qmlls")
 require("config.smart_splits")
+require("config.aerial")
 
 vim.keymap.set("n", "B", "ge", { noremap = false, silent = true } )
 vim.opt.statuscolumn = "%s %{v:lnum} %{v:relnum}"
@@ -17,3 +18,4 @@ vim.opt.statuscolumn = "%s %{v:lnum} %{v:relnum}"
 --[[vim.defer_fn(function()
     vim.cmd("colorscheme posterpole")
 end, 0)--]]
+
