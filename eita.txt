@@ -1,0 +1,355 @@
+drwxr-xr-x    - thifariafeliz  6 May 16:38 .
+drwxr-xr-x    - thifariafeliz  6 May 16:36 ├── .git
+.rw-r--r--    8 thifariafeliz  6 May 16:36 │   ├── COMMIT_EDITMSG
+.rw-r--r--  264 thifariafeliz  6 May 16:18 │   ├── config
+.rw-r--r--   73 thifariafeliz 10 Jun  2025 │   ├── description
+.rw-r--r--   95 thifariafeliz 24 Dec  2025 │   ├── FETCH_HEAD
+.rw-r--r--   21 thifariafeliz 24 Dec  2025 │   ├── HEAD
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   ├── hooks
+.rwxr-xr-x  478 thifariafeliz 10 Jun  2025 │   │   ├── applypatch-msg.sample
+.rwxr-xr-x  896 thifariafeliz 10 Jun  2025 │   │   ├── commit-msg.sample
+.rwxr-xr-x 4.7k thifariafeliz 10 Jun  2025 │   │   ├── fsmonitor-watchman.sample
+.rwxr-xr-x  189 thifariafeliz 10 Jun  2025 │   │   ├── post-update.sample
+.rwxr-xr-x  424 thifariafeliz 10 Jun  2025 │   │   ├── pre-applypatch.sample
+.rwxr-xr-x 1.6k thifariafeliz 10 Jun  2025 │   │   ├── pre-commit.sample
+.rwxr-xr-x  416 thifariafeliz 10 Jun  2025 │   │   ├── pre-merge-commit.sample
+.rwxr-xr-x 1.4k thifariafeliz 10 Jun  2025 │   │   ├── pre-push.sample
+.rwxr-xr-x 4.9k thifariafeliz 10 Jun  2025 │   │   ├── pre-rebase.sample
+.rwxr-xr-x  544 thifariafeliz 10 Jun  2025 │   │   ├── pre-receive.sample
+.rwxr-xr-x 1.5k thifariafeliz 10 Jun  2025 │   │   ├── prepare-commit-msg.sample
+.rwxr-xr-x 2.8k thifariafeliz 10 Jun  2025 │   │   ├── push-to-checkout.sample
+.rwxr-xr-x 2.3k thifariafeliz 10 Jun  2025 │   │   ├── sendemail-validate.sample
+.rwxr-xr-x 3.6k thifariafeliz 10 Jun  2025 │   │   └── update.sample
+.rw-r--r-- 5.2k thifariafeliz  6 May 16:36 │   ├── index
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   ├── info
+.rw-r--r--  240 thifariafeliz 10 Jun  2025 │   │   └── exclude
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   ├── logs
+.rw-r--r-- 5.5k thifariafeliz  6 May 16:36 │   │   ├── HEAD
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   │   └── refs
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   │       ├── heads
+.rw-r--r-- 3.5k thifariafeliz  6 May 16:36 │   │       │   └── main
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   │       └── remotes
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │           └── origin
+.rw-r--r--  185 thifariafeliz 10 Jun  2025 │   │               ├── HEAD
+.rw-r--r-- 1.4k thifariafeliz 13 Mar 15:55 │   │               └── main
+drwxr-xr-x    - thifariafeliz  6 May 16:36 │   ├── objects
+drwxr-xr-x    - thifariafeliz 13 Mar 15:55 │   │   ├── 0a
+.r--r--r--  185 thifariafeliz 14 Jun  2025 │   │   │   ├── a6cb3175ec33d4aa8dc4aac350d1f348a97433
+.r--r--r--   56 thifariafeliz  6 May 16:36 │   │   │   └── d668066c0fad466b3f48637168171f4293c67b
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │   ├── 0b
+.r--r--r--  186 thifariafeliz 14 Jun  2025 │   │   │   └── 46ce9f8d4be2e39f35c2ed37180b5821b14ab8
+drwxr-xr-x    - thifariafeliz 13 Mar 15:54 │   │   ├── 0c
+.r--r--r--  764 thifariafeliz 13 Mar 15:54 │   │   │   └── 50296f561eaf836389215b92453716b4d25c85
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 0e
+.r--r--r--  475 thifariafeliz  6 May 16:29 │   │   │   └── 2e6c69da2ecb8b0c2456d89942898326709116
+drwxr-xr-x    - thifariafeliz 28 Sep  2025 │   │   ├── 0f
+.r--r--r--  141 thifariafeliz 28 Sep  2025 │   │   │   └── 61e3cb8b7a4f82d64707fa6c7c53561725b7ed
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │   ├── 00
+.r--r--r--  154 thifariafeliz 14 Jun  2025 │   │   │   └── 723bd1eb574d7382aaf91e9e46141f5598097c
+drwxr-xr-x    - thifariafeliz 27 Oct  2025 │   │   ├── 01
+.r--r--r--  187 thifariafeliz 27 Oct  2025 │   │   │   └── e8c2a25127013a44053289c72cfe33a83904bd
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 04
+.r--r--r--  216 thifariafeliz 24 Dec  2025 │   │   │   └── c694c4246514f0649f30e665a244b1c49c0553
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 05
+.r--r--r--  568 thifariafeliz  6 May 16:29 │   │   │   └── b187205de76d5e1d2f53261acb43f1bfb0d1fe
+drwxr-xr-x    - thifariafeliz 13 Mar 15:54 │   │   ├── 08
+.r--r--r--  748 thifariafeliz 13 Mar 15:54 │   │   │   └── c932538ffd9e71a29fb8546209e1fa97a12bd7
+drwxr-xr-x    - thifariafeliz 28 Sep  2025 │   │   ├── 1a
+.r--r--r--  215 thifariafeliz 28 Sep  2025 │   │   │   └── 1d0085ae493b689395d68a46a5985966c82eac
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 2a
+.r--r--r--  419 thifariafeliz  6 May 16:29 │   │   │   └── 8b8a54949183373ea9d0d5e70baf30bb868805
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 2b
+.r--r--r--  878 thifariafeliz 24 Dec  2025 │   │   │   └── 9b285b92549e15c69e3f26a34b8208a879d7cf
+drwxr-xr-x    - thifariafeliz  5 Oct  2025 │   │   ├── 2c
+.r--r--r--  189 thifariafeliz  5 Oct  2025 │   │   │   └── 3e9833ad611df283709c45336445e938ab742f
+drwxr-xr-x    - thifariafeliz 21 Nov  2025 │   │   ├── 2d
+.r--r--r-- 3.0k thifariafeliz 21 Nov  2025 │   │   │   ├── a76956f0d24baf8169f6e2414d1c0fb948fd34
+.r--r--r-- 6.3k thifariafeliz 27 Oct  2025 │   │   │   └── daf0186269a523efcbd1b6db62120ec41bc4bd
+drwxr-xr-x    - thifariafeliz 23 Jan 18:55 │   │   ├── 2e
+.r--r--r-- 3.3k thifariafeliz 23 Jan 18:55 │   │   │   └── f05793e13297457aa5ed2d4b966ec20e9993d9
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │   ├── 3a
+.r--r--r--  198 thifariafeliz 14 Jun  2025 │   │   │   └── 9b0f3233c8eb236b0209ebb30f3025040f389d
+drwxr-xr-x    - thifariafeliz 23 Jan 18:55 │   │   ├── 3e
+.r--r--r--  386 thifariafeliz 23 Jan 18:55 │   │   │   └── fc70e3cf482e58a3b11f4c0b97cb03fcbeadaf
+drwxr-xr-x    - thifariafeliz 23 Jan 18:55 │   │   ├── 3f
+.r--r--r--  688 thifariafeliz 23 Jan 18:55 │   │   │   └── 2db38b45409a34afebfd7668be90cc77a2035d
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 4b
+.r--r--r--  104 thifariafeliz  6 May 16:29 │   │   │   ├── e4d3f7e7f40f89872c9bb3a7532699729f941e
+.r--r--r--  386 thifariafeliz 12 Jan 18:14 │   │   │   └── f3ebd246865bc431a4ab4ea5561bb805ff96d7
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── 4c
+.r--r--r--  336 thifariafeliz 12 Jan 18:14 │   │   │   └── 19d60caedf96396face75f6b8622aa4d491dc4
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 4d
+.r--r--r-- 3.0k thifariafeliz 24 Dec  2025 │   │   │   └── 84ce76509dfa589ceac0145ce93c94acedf8f7
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 4e
+.r--r--r--  349 thifariafeliz 24 Dec  2025 │   │   │   └── cd1d0bc787696c6778a2305423fd6dba7ff524
+drwxr-xr-x    - thifariafeliz 13 Mar 15:54 │   │   ├── 5a
+.r--r--r-- 1.9k thifariafeliz  6 May 16:29 │   │   │   └── 7770e3793e206758e7507f455a5682f8a05d77
+drwxr-xr-x    - thifariafeliz 13 Mar 15:55 │   │   ├── 5b
+.r--r--r--  202 thifariafeliz 24 Dec  2025 │   │   │   ├── 847a4e3f4a4731b3dd435d8df612ca901332ec
+.r--r--r--  182 thifariafeliz 13 Mar 15:55 │   │   │   └── 7568f5bb7ad9053928b492654582c7562808c7
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── 6b
+.r--r--r--  661 thifariafeliz 12 Jan 18:14 │   │   │   └── e50372dce6af3ea5d67bba8d05ca125e57a8cd
+drwxr-xr-x    - thifariafeliz  6 May 16:36 │   │   ├── 6f
+.r--r--r--  216 thifariafeliz  6 May 16:36 │   │   │   └── bdd328500ae1e2a8feb0428c13f6d1375054de
+drwxr-xr-x    - thifariafeliz 13 Mar 15:55 │   │   ├── 7d
+.r--r--r--  154 thifariafeliz 13 Mar 15:55 │   │   │   └── 1e588ec3b18587e5bf320b3575c7d5a4240188
+drwxr-xr-x    - thifariafeliz 28 Sep  2025 │   │   ├── 7e
+.r--r--r--  271 thifariafeliz 28 Sep  2025 │   │   │   └── 30feff5a85061f6eaab438b379fa4c0fbc9285
+drwxr-xr-x    - thifariafeliz 27 Oct  2025 │   │   ├── 7f
+.r--r--r--  153 thifariafeliz 27 Oct  2025 │   │   │   └── bde89168a50bc8d8058608199fcaabbf551197
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── 8c
+.r--r--r--  13k thifariafeliz 12 Jan 18:14 │   │   │   └── 5e1bba82675612fee26740a89a1ac41d9ba7eb
+drwxr-xr-x    - thifariafeliz  6 May 16:36 │   │   ├── 8d
+.r--r--r--  186 thifariafeliz  6 May 16:36 │   │   │   └── 0f965731ca4ec60e45b127895830542cdc1d90
+drwxr-xr-x    - thifariafeliz  5 Oct  2025 │   │   ├── 8e
+.r--r--r--  350 thifariafeliz  5 Oct  2025 │   │   │   └── 854fd6cd3a6f0a04a0bcc9fa12cc75dd82a7ef
+drwxr-xr-x    - thifariafeliz 21 Nov  2025 │   │   ├── 9e
+.r--r--r--  154 thifariafeliz 21 Nov  2025 │   │   │   └── 3f39cdba898bf5fb6b73f27863cd88a326f5ce
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 13
+.r--r--r--  238 thifariafeliz 24 Dec  2025 │   │   │   └── d197c34f6b572b6b3bcd29d16f7a23f5ed9d23
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 16
+.r--r--r--  356 thifariafeliz  6 May 16:29 │   │   │   └── 32ca26ac02d1df0068aa6b0b2181001e0ee34e
+drwxr-xr-x    - thifariafeliz  5 Oct  2025 │   │   ├── 17
+.r--r--r--  423 thifariafeliz  5 Oct  2025 │   │   │   └── d9b32f4df8e9f1a8d8b73434c40e50e11eedba
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 20
+.r--r--r--   62 thifariafeliz  5 Oct  2025 │   │   │   ├── 24524c2b034e9de0209b17c66fe9ceaecb3b23
+.r--r--r--  152 thifariafeliz 24 Dec  2025 │   │   │   └── a0528cf9ede33cc128db9c9ea8f7759cdd4b97
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 21
+.r--r--r--  153 thifariafeliz 28 Sep  2025 │   │   │   ├── 01afabc7acbed75c8a8266c510ccc911cacf36
+.r--r--r--  748 thifariafeliz 12 Jan 18:14 │   │   │   ├── 077ae596f6655ad47affee4fe2f7dec41a8448
+.r--r--r--  455 thifariafeliz  6 May 16:29 │   │   │   └── 84a834d0ea87163d1acd5e5ccfc4d12743f792
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │   ├── 24
+.r--r--r--  703 thifariafeliz 14 Jun  2025 │   │   │   └── 79820cf2afadf898ce4a68ee21bbfcad78bf65
+drwxr-xr-x    - thifariafeliz 21 Nov  2025 │   │   ├── 25
+.r--r--r--  350 thifariafeliz 21 Nov  2025 │   │   │   └── e202167e9f6495435ea7438cd7cafab695af8e
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 28
+.r--r--r-- 1.2k thifariafeliz  6 May 16:29 │   │   │   ├── 037c151600e6e377d4f06612677a53433bc62d
+.r--r--r--  735 thifariafeliz  6 May 16:29 │   │   │   └── 592aa56ae65de6d21461fe94de8557b8e60acd
+drwxr-xr-x    - thifariafeliz 23 Jan 18:55 │   │   ├── 29
+.r--r--r--  662 thifariafeliz 21 Nov  2025 │   │   │   ├── 6e174980a7f6acb0366ecb94d2add6a6fe6963
+.r--r--r--  283 thifariafeliz 21 Nov  2025 │   │   │   ├── 8712480ce6913f2baebc9f5505fd1bf61764e4
+.r--r--r--  710 thifariafeliz 23 Jan 18:55 │   │   │   └── ccb378fa4d576c0d364f0d224f268b27a24c1f
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 35
+.r--r--r--  187 thifariafeliz 24 Dec  2025 │   │   │   └── 4c3d8a5e895f46b77dc51e27682d4e7d107849
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 42
+.r--r--r--   84 thifariafeliz  6 May 16:29 │   │   │   ├── 03f343bffa3213de43547cdf2575be168c6e96
+.r--r--r--  950 thifariafeliz 12 Jan 18:14 │   │   │   ├── 588d2e5de2ca1ef4f37565851aaece190278c6
+.r--r--r--  323 thifariafeliz 30 Nov  2025 │   │   │   └── ee5c1b029da22840751ac3c787b555ab0f5817
+drwxr-xr-x    - thifariafeliz  5 Oct  2025 │   │   ├── 43
+.r--r--r--  509 thifariafeliz  5 Oct  2025 │   │   │   └── 8a563b91fc3bb2882b653d0e6064709153c1ad
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 45
+.r--r--r--  186 thifariafeliz 14 Jun  2025 │   │   │   ├── 10f982235b877aa3c13b0f94daed36e9b6c3b6
+.r--r--r--  153 thifariafeliz 24 Dec  2025 │   │   │   ├── 525ca6308084af5b1f85e93a39ea99f3098cc3
+.r--r--r--  443 thifariafeliz 21 Nov  2025 │   │   │   └── b37b9a834eae5c167e2ba75a21b992aa125944
+drwxr-xr-x    - thifariafeliz 13 Mar 15:55 │   │   ├── 59
+.r--r--r--  416 thifariafeliz 13 Mar 15:55 │   │   │   └── 00cd1666a0dc8e4f5621fcb30708ce64a6177e
+drwxr-xr-x    - thifariafeliz 13 Mar 15:54 │   │   ├── 60
+.r--r--r--  132 thifariafeliz  6 May 16:29 │   │   │   ├── 759e68c44b09250166c665c642a9f6de50b3df
+.r--r--r--  580 thifariafeliz 24 Dec  2025 │   │   │   └── 66081a2953068014a2f3775e7aaee17855c3c3
+drwxr-xr-x    - thifariafeliz 21 Nov  2025 │   │   ├── 63
+.r--r--r--  878 thifariafeliz 21 Nov  2025 │   │   │   └── 7e44e993f677a46a990deb3ad8b6e24dfd8ac2
+drwxr-xr-x    - thifariafeliz  5 Oct  2025 │   │   ├── 69
+.r--r--r--  186 thifariafeliz  5 Oct  2025 │   │   │   └── 30974de607e93f52490ad02875ce3caeb3317a
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 70
+.r--r--r--  202 thifariafeliz  6 May 16:18 │   │   │   └── 1e2046d2350c69cb8664fb29a76a0cd944cab5
+drwxr-xr-x    - thifariafeliz 23 Jan 18:55 │   │   ├── 72
+.r--r--r--  952 thifariafeliz 23 Jan 18:55 │   │   │   └── a641a038a82c3d3885cf8bfc2ab31c684c0a03
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── 73
+.r--r--r--  186 thifariafeliz 12 Jan 18:14 │   │   │   └── 27bc27d6c8fba117e1c0e228305b6194629d82
+drwxr-xr-x    - thifariafeliz 23 Jan 18:55 │   │   ├── 76
+.r--r--r--  154 thifariafeliz  5 Oct  2025 │   │   │   ├── 92a9e8dc228a2fc93939567655247448288ef2
+.r--r--r--  185 thifariafeliz 23 Jan 18:55 │   │   │   └── 32416538a678c7014af3bb5c18c6bf722a3d12
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 77
+.r--r--r--  152 thifariafeliz 24 Dec  2025 │   │   │   └── 3beb4fe79759a14904e94ece19f5557bdd039e
+drwxr-xr-x    - thifariafeliz 27 Oct  2025 │   │   ├── 80
+.r--r--r-- 2.9k thifariafeliz 27 Oct  2025 │   │   │   └── 71bc7997d947d7fab923d4460097b623305d94
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── 82
+.r--r--r--  600 thifariafeliz 12 Jan 18:14 │   │   │   └── 143fac27431ab13db2f5489ba9818d7e0206da
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── 84
+.r--r--r--  187 thifariafeliz 24 Dec  2025 │   │   │   └── 9ef3705527d040404859a831547f166fa36bc6
+drwxr-xr-x    - thifariafeliz 13 Mar 15:54 │   │   ├── 86
+.r--r--r--  314 thifariafeliz  6 May 16:29 │   │   │   └── 6f1354218e466d42da506f81bc113490013a43
+drwxr-xr-x    - thifariafeliz 28 Sep  2025 │   │   ├── 87
+.r--r--r--  487 thifariafeliz 28 Sep  2025 │   │   │   └── 330d2ccd45db655eead5c3b4078b90d4e8c36e
+drwxr-xr-x    - thifariafeliz  5 Oct  2025 │   │   ├── 88
+.r--r--r-- 2.8k thifariafeliz  5 Oct  2025 │   │   │   └── 4db8d25dbc567d93ef3241ff4c4cb05ea89bb6
+drwxr-xr-x    - thifariafeliz 30 Nov  2025 │   │   ├── 90
+.r--r--r--  186 thifariafeliz 30 Nov  2025 │   │   │   └── b7a7025b6b8d719e8c1d86ea52a807cd20c0b1
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── 92
+.r--r--r--  339 thifariafeliz  6 May 16:18 │   │   │   └── f57094cc133db3bd3cab4b164f8fd34a4fc084
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │   ├── 97
+.r--r--r--  154 thifariafeliz 14 Jun  2025 │   │   │   └── 21e34e854c2c5ae7b8bce85c1e64ba84380948
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │   ├── a0
+.r--r--r--  351 thifariafeliz 14 Jun  2025 │   │   │   └── bccbe3c92a000398c69bfb507399c0ff1afdce
+drwxr-xr-x    - thifariafeliz 28 Sep  2025 │   │   ├── a4
+.r--r--r--  414 thifariafeliz 28 Sep  2025 │   │   │   └── d7620096d8de14b8d661b69b430c245e3ce7cd
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── a5
+.r--r--r--  186 thifariafeliz 24 Dec  2025 │   │   │   └── f798ebb0ccabc795bdf9e343391b11a12da22c
+drwxr-xr-x    - thifariafeliz 21 Nov  2025 │   │   ├── a7
+.r--r--r--  186 thifariafeliz 21 Nov  2025 │   │   │   └── 8b96f95c30f9e7c21a72d45bd19254fdb6de41
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │   ├── a9
+.r--r--r--  219 thifariafeliz 28 Sep  2025 │   │   │   └── 01a06bfdb0007f7e7450a10fe55c536d8070c0
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── ac
+.r--r--r-- 103M thifariafeliz  6 May 16:29 │   │   │   ├── 84e15739387fab2df7359f63cb3d67009ccf0a
+.r--r--r--  204 thifariafeliz 21 Nov  2025 │   │   │   └── e6dc9bab5e690239afe832e71dba9a868ffcea
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── b0
+.r--r--r-- 3.5k thifariafeliz 24 Dec  2025 │   │   │   ├── 6e16a9c67a74c2ae7f2453798fb247d9934e7f
+.r--r--r-- 2.8k thifariafeliz 14 Jun  2025 │   │   │   └── 43c25b9a03b696e86c2b66d1f06bd52001c7a6
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── b4
+.r--r--r--  416 thifariafeliz  6 May 16:36 │   │   │   └── 59baa8bf12f72ac156dace2263dbf7a69ced50
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── b5
+.r--r--r--  130 thifariafeliz  6 May 16:29 │   │   │   ├── baa77f09b7ef8c1d4b4168ff754d5d11a2039e
+.r--r--r--  154 thifariafeliz  6 May 16:36 │   │   │   └── c451a681d6d23206a5c1f17832a690401c624d
+drwxr-xr-x    - thifariafeliz 13 Mar 15:54 │   │   ├── b7
+.r--r--r--  255 thifariafeliz 27 Oct  2025 │   │   │   ├── 3b19be24ab9b2684f423933e01c2720d5c5e66
+.r--r--r--  310 thifariafeliz 13 Mar 15:54 │   │   │   └── 3781545bbc28f782df11fff96c5c404e281e22
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── b8
+.r--r--r-- 3.5k thifariafeliz  6 May 16:29 │   │   │   ├── 0db19c50b34bee4cef62b95c5e04daf0ea6202
+.r--r--r--  533 thifariafeliz 13 Mar 15:54 │   │   │   └── 49a996f8cc0343a793355b3943b56d892c9bf8
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── ba
+.r--r--r--  821 thifariafeliz 28 Sep  2025 │   │   │   ├── 0ac2a4d0e53ab78356a00c2ebd08cb7fab57bf
+.r--r--r--  296 thifariafeliz  6 May 16:29 │   │   │   ├── 48c1da22bc278e14ac846ebbc26b6d34aaefdc
+.r--r--r--  364 thifariafeliz  6 May 16:29 │   │   │   └── f594a588c724a3b837ffda806c797a254b37f7
+drwxr-xr-x    - thifariafeliz 21 Nov  2025 │   │   ├── bc
+.r--r--r--  716 thifariafeliz 21 Nov  2025 │   │   │   └── 752282a24e37d91e67c50071a217981b5098e9
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── c1
+.r--r--r--  783 thifariafeliz 14 Jun  2025 │   │   │   ├── 29cb064aa53738614ea157907c1d9ff5bb88d5
+.r--r--r-- 3.2k thifariafeliz 12 Jan 18:14 │   │   │   └── fe1fecbed7555d74a0d74bef30d9d2ef2fe977
+drwxr-xr-x    - thifariafeliz 27 Oct  2025 │   │   ├── c2
+.r--r--r--  850 thifariafeliz 27 Oct  2025 │   │   │   └── 184214212da370581d7c44f25236966c27911d
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── c9
+.r--r--r-- 104M thifariafeliz  6 May 16:18 │   │   │   └── 5030985a4f3ac162ecc8ad60994ae8e49fa98a
+drwxr-xr-x    - thifariafeliz 13 Mar 15:54 │   │   ├── ca
+.r--r--r--  130 thifariafeliz  6 May 16:29 │   │   │   └── 4621914617bb4d9ddf4e2932add9aec3383c7c
+drwxr-xr-x    - thifariafeliz 28 Sep  2025 │   │   ├── cb
+.r--r--r--  187 thifariafeliz 28 Sep  2025 │   │   │   └── 48307b48bf72174fd60351870586c3884fa14a
+drwxr-xr-x    - thifariafeliz 23 Jan 18:55 │   │   ├── cd
+.r--r--r--  199 thifariafeliz 23 Jan 18:55 │   │   │   └── 5abeee548d5a18aa62e53ae52486b2a5cc8b2a
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── ce
+.r--r--r-- 2.4k thifariafeliz 12 Jan 18:14 │   │   │   └── 30c491cc6ec5be254a7de969c828a7c133de3e
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── d2
+.r--r--r--  153 thifariafeliz 12 Jan 18:14 │   │   │   └── 8d34caee3e5a31fdfbc8d8ba89407076c8a890
+drwxr-xr-x    - thifariafeliz 30 Nov  2025 │   │   ├── d4
+.r--r--r--  229 thifariafeliz 30 Nov  2025 │   │   │   └── 9ed2febc5832bcfeee5602c46fbc2690a41b7b
+drwxr-xr-x    - thifariafeliz 13 Mar 15:55 │   │   ├── d5
+.r--r--r-- 1.0k thifariafeliz 13 Mar 15:55 │   │   │   └── bc272590fc03ad94beb1a00bc19d53a214b123
+drwxr-xr-x    - thifariafeliz 13 Mar 15:54 │   │   ├── d6
+.r--r--r--  571 thifariafeliz 28 Sep  2025 │   │   │   ├── a4c20b5caad11f4467c11c02474031b2329cb6
+.r--r--r--  345 thifariafeliz 13 Mar 15:54 │   │   │   └── a89f32bb9e17da62b9fe903baf60965161175d
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── d7
+.r--r--r--  798 thifariafeliz  6 May 16:29 │   │   │   └── 6213ae730c4fe1d60566f7ca082f03bd3740b8
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── d9
+.r--r--r--  753 thifariafeliz  6 May 16:29 │   │   │   └── 1c1a4e1cb8445559f644d097a2f1c23a72cd33
+drwxr-xr-x    - thifariafeliz 28 Sep  2025 │   │   ├── db
+.r--r--r--  351 thifariafeliz 28 Sep  2025 │   │   │   └── dbe42f4f4ca3f93b4c6966a51417efe1e8476e
+drwxr-xr-x    - thifariafeliz 13 Mar 15:55 │   │   ├── dc
+.r--r--r--  196 thifariafeliz 13 Mar 15:55 │   │   │   └── 269555f5594a9b12862734133fa5a626424667
+drwxr-xr-x    - thifariafeliz 23 Jan 18:55 │   │   ├── de
+.r--r--r--  153 thifariafeliz 23 Jan 18:55 │   │   │   └── 940c6700cc2432b6492d8b067ca45664913721
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── e1
+.r--r--r--  184 thifariafeliz 12 Jan 18:14 │   │   │   └── bdf6179ac0dae65a37348516db66db00a40e04
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── e4
+.r--r--r--  619 thifariafeliz 24 Dec  2025 │   │   │   ├── 06f2103947a4686942f6c59953d831541dfc19
+.r--r--r-- 2.8k thifariafeliz 28 Sep  2025 │   │   │   └── 1f3758cbbbbc924d93ba907b64d4952bb80bca
+drwxr-xr-x    - thifariafeliz  5 Oct  2025 │   │   ├── e6
+.r--r--r--  820 thifariafeliz  5 Oct  2025 │   │   │   └── e1939541f9dd60547b380abcd0d3331af32583
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── e9
+.r--r--r--  186 thifariafeliz 24 Dec  2025 │   │   │   └── a2ebf195581a7e20ab7e5f4bf27c2a54cff7b0
+drwxr-xr-x    - thifariafeliz 27 Oct  2025 │   │   ├── ea
+.r--r--r--  594 thifariafeliz 28 Sep  2025 │   │   │   ├── 13788f6c46d677bd8b6d1cb98dda4591bb00c9
+.r--r--r--   49 thifariafeliz 27 Oct  2025 │   │   │   └── c6c18ce7f5f68a2f91479bd8a2aec2e6a77abc
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── ec
+.r--r--r--  116 thifariafeliz  6 May 16:18 │   │   │   └── d0b6fe8ad1362ac997fd40276337423669b895
+drwxr-xr-x    - thifariafeliz 27 Oct  2025 │   │   ├── ed
+.r--r--r--  711 thifariafeliz 27 Oct  2025 │   │   │   └── f5a058f1df0fe977fb7ec52ac10a43f183360f
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── f4
+.r--r--r--  197 thifariafeliz 24 Dec  2025 │   │   │   └── df4c24d6a589ba0b7542290f9633bb8f5c32b6
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── f5
+.r--r--r-- 1.2k thifariafeliz  6 May 16:36 │   │   │   └── b199b1753dcbda3312b604dc2f60468a1f9166
+drwxr-xr-x    - thifariafeliz 14 Jun  2025 │   │   ├── f7
+.r--r--r--   74 thifariafeliz 14 Jun  2025 │   │   │   └── b038eb804c221f6d927dd8effaa766b9edce33
+drwxr-xr-x    - thifariafeliz 12 Jan 18:14 │   │   ├── f8
+.r--r--r--  407 thifariafeliz 12 Jan 18:14 │   │   │   └── 57c3bd7fefe3629beb50cd75fddbea2e5443ce
+drwxr-xr-x    - thifariafeliz 24 Dec  2025 │   │   ├── fc
+.r--r--r--  196 thifariafeliz 24 Dec  2025 │   │   │   ├── b26907f63897f73722e7da22585165251af5a6
+.r--r--r-- 3.0k thifariafeliz 24 Dec  2025 │   │   │   └── ea33aec90343f12a51f1a2b88180462f493b78
+drwxr-xr-x    - thifariafeliz  6 May 16:18 │   │   ├── fe
+.r--r--r--  278 thifariafeliz  6 May 16:29 │   │   │   └── f7e2aafd7f570882d930917257aeb9a261a2b5
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   │   ├── info
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   │   └── pack
+.r--r--r-- 4.7k thifariafeliz 10 Jun  2025 │   │       ├── pack-de6a958141e18cf75905948af71effd345fd939a.idx
+.r--r--r--  30k thifariafeliz 21 Nov  2025 │   │       ├── pack-de6a958141e18cf75905948af71effd345fd939a.pack
+.r--r--r--  576 thifariafeliz 10 Jun  2025 │   │       └── pack-de6a958141e18cf75905948af71effd345fd939a.rev
+.rw-r--r--   41 thifariafeliz  6 May 16:29 │   ├── ORIG_HEAD
+.rw-r--r--  112 thifariafeliz 10 Jun  2025 │   ├── packed-refs
+.rw-r--r--   41 thifariafeliz 24 Dec  2025 │   ├── REBASE_HEAD
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │   └── refs
+drwxr-xr-x    - thifariafeliz  6 May 16:36 │       ├── heads
+.rw-r--r--   41 thifariafeliz  6 May 16:36 │       │   └── main
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │       ├── remotes
+drwxr-xr-x    - thifariafeliz 13 Mar 15:55 │       │   └── origin
+.rw-r--r--   30 thifariafeliz 10 Jun  2025 │       │       ├── HEAD
+.rw-r--r--   41 thifariafeliz 13 Mar 15:55 │       │       └── main
+drwxr-xr-x    - thifariafeliz 10 Jun  2025 │       └── tags
+.rw-r--r--    0 thifariafeliz 10 Jun  2025 ├── .luarc.json
+drwxr-xr-x    - thifariafeliz 15 Feb 06:49 ├── colors
+.rw-r--r-- 6.0k thifariafeliz 15 Feb 06:49 │   └── corduroy.lua
+.rw-r--r--    0 thifariafeliz  6 May 16:38 ├── eita.txt
+.rw-r--r--  879 thifariafeliz  2 May 19:13 ├── init.lua
+.rw-r--r-- 6.2k thifariafeliz  2 May 19:00 ├── lazy-lock.json
+drwxr-xr-x    - thifariafeliz  3 Apr 07:58 ├── lua
+drwxr-xr-x    - thifariafeliz 24 Mar 14:30 │   ├── config
+.rw-r--r--  458 thifariafeliz 13 Mar 15:00 │   │   ├── aerial.lua
+.rw-r--r-- 1.8k thifariafeliz 24 Mar 14:30 │   │   ├── autocmds.lua
+.rw-r--r-- 2.1k thifariafeliz 10 Jun  2025 │   │   ├── barbarkm.lua
+.rw-r--r--  221 thifariafeliz 10 Jun  2025 │   │   ├── clipboard.lua
+.rw-r--r--  159 thifariafeliz 13 Mar 15:06 │   │   ├── keybindings.lua
+.rw-r--r--  405 thifariafeliz 10 Jun  2025 │   │   ├── luasnipkm.lua
+.rw-r--r-- 1.2k thifariafeliz 10 Jun  2025 │   │   ├── neo-tree.lua
+.rw-r--r--   53 thifariafeliz 28 Sep  2025 │   │   ├── qmlls.lua
+.rw-r--r-- 1.2k thifariafeliz 31 Dec  2025 │   │   ├── smart_splits.lua
+.rw-r--r--  396 thifariafeliz 10 Jun  2025 │   │   ├── telescopekm.lua
+.rw-r--r-- 1.6k thifariafeliz 23 Jan 18:54 │   │   ├── themery.lua
+.rw-r--r-- 7.3k thifariafeliz 10 Jun  2025 │   │   └── trouble.lua
+.rw-r--r-- 1.1k thifariafeliz  3 Apr 07:58 │   ├── keymaps.lua
+.rw-r--r--  401 thifariafeliz 10 Jun  2025 │   ├── options.lua
+drwxr-xr-x    - thifariafeliz 10 Apr 16:09 │   └── plugins
+.rw-r--r--  528 thifariafeliz 14 Mar 13:05 │       ├── aerial.lua
+.rw-r--r--   90 thifariafeliz 10 Jun  2025 │       ├── autopairs.lua
+.rw-r--r--  417 thifariafeliz  3 Apr 11:39 │       ├── avante.lua
+.rw-r--r--  597 thifariafeliz 10 Jun  2025 │       ├── barbar.lua
+.rw-r--r-- 2.3k thifariafeliz 10 Jun  2025 │       ├── blink.lua
+.rw-r--r--  292 thifariafeliz 10 Jun  2025 │       ├── ccc.lua
+.rw-r--r-- 1.0k thifariafeliz 21 Nov  2025 │       ├── comment.lua
+.rw-r--r--  272 thifariafeliz 10 Jun  2025 │       ├── dap.lua
+.rw-r--r--  101 thifariafeliz 28 Mar 07:44 │       ├── dapui.lua
+.rw-r--r--  149 thifariafeliz 11 Aug  2025 │       ├── indent-blankline.lua
+.rw-r--r-- 1.5k thifariafeliz 10 Apr 16:04 │       ├── init.lua
+.rw------- 1.6k thifariafeliz 28 Mar 13:53 │       ├── init.lua.save
+.rw-r--r--  134 thifariafeliz  5 Feb 14:58 │       ├── julia.lua
+.rw-r--r--  274 thifariafeliz 10 Jun  2025 │       ├── livepreview.lua
+.rw-r--r--  778 thifariafeliz 28 Sep  2025 │       ├── lsp.lua
+.rw-r--r--  959 thifariafeliz 28 Sep  2025 │       ├── lspconfig.lua
+.rw-r--r-- 2.7k thifariafeliz 14 Mar 12:48 │       ├── lualine.lua
+.rw-r--r--  436 thifariafeliz 10 Jun  2025 │       ├── luasnip.lua
+.rw-r--r--  364 thifariafeliz 27 Jul  2025 │       ├── markview.lua
+.rw-r--r--  416 thifariafeliz 10 Jun  2025 │       ├── mason.lua
+.rw-r--r--  17k thifariafeliz 27 Oct  2025 │       ├── neotree.lua
+.rw-r--r--  172 thifariafeliz 10 Jun  2025 │       ├── nvimsurround.lua
+.rw-r--r--  120 thifariafeliz 10 Jun  2025 │       ├── nvimtree.lua
+.rw-r--r--  217 thifariafeliz 10 Jun  2025 │       ├── nvimtsautotag.lua
+.rw-r--r--   97 thifariafeliz 10 Jun  2025 │       ├── nvimufo.lua
+.rw-r--r--  314 thifariafeliz  3 Apr 08:00 │       ├── outline.lua
+.rw-r--r--  43k thifariafeliz  7 Jan 17:11 │       ├── render_markdown.lua
+.rw-r--r--   70 thifariafeliz 15 Mar 19:46 │       ├── rustacean.lua
+.rw-r--r-- 4.3k thifariafeliz 31 Dec  2025 │       ├── smart_splits.lua
+.rw-r--r--  660 thifariafeliz  4 Apr 07:35 │       ├── snacks.lua
+.rw-r--r--  167 thifariafeliz 13 Mar 15:02 │       ├── telescope.lua
+.rw-r--r--  132 thifariafeliz 10 Jun  2025 │       ├── themery.lua
+.rw-r--r-- 1.9k thifariafeliz 10 Apr 16:05 │       ├── themes.lua
+.rw-r--r--  705 thifariafeliz 10 Apr 16:09 │       ├── treesitter.lua
+.rw-r--r--  967 thifariafeliz 10 Jun  2025 │       ├── trouble.lua
+.rw-r--r--  131 thifariafeliz 10 Jun  2025 │       ├── tscomments.lua
+.rw-r--r--  314 thifariafeliz 10 Jun  2025 │       ├── whichkey.lua
+.rw-r--r--   33 thifariafeliz 25 Oct  2025 │       └── yuck.lua
+.rw-r--r--   82 thifariafeliz 10 Jun  2025 └── README.md

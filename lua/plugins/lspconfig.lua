@@ -1,0 +1,41 @@
+return {
+  'neovim/nvim-lspconfig',
+  dependencies = { 'saghen/blink.cmp' },
+  opts = {
+    servers = {
+      lua_ls = {
+        settings = {
+          Lua = {
+            workspace = {
+              checkThirdParty = false,
+              ignoreDir = {
+                "AppData",
+                ".git",
+                "node_modules",
+                "venv",
+                "__pycache__"
+              },
+            },
+            telemetry = {
+              enable = false,
+            },
+          },
+        },
+      },
+      pyright = {},
+      ts_ls = {},
+      gopls = {},
+      rust_analyzer = {},
+      cssls = {},
+      html = {},
+      clangd = {},
+    }
+  },
+  config = function(_, opts)
+    for server, config in pairs(opts.servers) do
+      config.capabilities = require('blink.cmp').get_lsp_capabilities(config.capabilities or {})
+      vim.lsp.config(server, config)
+    end
+  end,
+  lazy = false,
+}
