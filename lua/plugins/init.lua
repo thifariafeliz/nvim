@@ -40,6 +40,7 @@ require("lazy").setup({
   require("plugins.tscomments"),
   require("plugins.whichkey"),
   require("plugins.yuck"),
+  require("plugins.codediff"),
 
 
   { "xiyaowong/transparent.nvim", lazy = false },

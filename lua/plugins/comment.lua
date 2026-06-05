@@ -1,7 +1,7 @@
 -- Arquivo: lua/plugins/comment.lua
 return {
     'numToStr/Comment.nvim',
-    event = "VeryLazy", -- Carrega apenas quando necessário (opcional, mas recomendado)
+    --event = "VeryLazy", -- Carrega apenas quando necessário (opcional, mas recomendado)
     opts = {
         -- Aqui você pode adicionar configurações personalizadas
         -- Deixar vazio {} usa as configurações padrão (que já são ótimas)
