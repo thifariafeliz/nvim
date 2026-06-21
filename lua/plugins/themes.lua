@@ -127,6 +127,56 @@ return {
     dependencies = "rktjmp/lush.nvim",
     lazy = false,
     priority = 1000,
-  }
+  },
+
+  {
+    "m-mead/eddy.nvim",
+    lazy = true
+  },
+
+  {
+    "blameaniket/atlastheme",
+    lazy = true
+  },
+
+  {
+    "anhari/zorn.nvim",
+    lazy = true
+  },
+
+  {
+    "kape-theme/nvim",
+    lazy = true
+  },
+
+  {
+    "saeeedhany/parchment.nvim",
+    lazy = true
+  },
+
+  {
+    "merrebach/singularity.nvim",
+    lazy = true
+  },
+
+  {
+    "meanybeany420/the_bean_theme.nvim",
+    lazy = true
+  },
+
+  {
+    "zhiwei-ou/grayveil.nvim",
+    lazy = true
+  },
+
+  {
+    "ogswag/valve-olive.nvim",
+    lazy = true
+  },
+
+  {
+    "nyvyme/naysayer.nvim",
+    lazy = true
+  },
 
 }
