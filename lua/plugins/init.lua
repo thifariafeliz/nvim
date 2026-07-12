@@ -41,6 +41,7 @@ require("lazy").setup({
   require("plugins.whichkey"),
   require("plugins.yuck"),
   require("plugins.codediff"),
+  require("plugins.obsidian"),
 
 
   { "xiyaowong/transparent.nvim", lazy = false },
