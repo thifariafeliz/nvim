@@ -25,3 +25,6 @@ vim.keymap.set("n", "<leader>fs", "<cmd>Telescope aerial<CR>")
 
 vim.keymap.set("n", "<leader>co", "<cmd>Outline<CR>",
   { desc = "Toggle Outline" })
+
+
+vim.keymap.set("n", "<leader>bx", "<cmd>BufferClose<CR>", { desc = "Close current buffer"})

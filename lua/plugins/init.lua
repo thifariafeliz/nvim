@@ -28,7 +28,7 @@ require("lazy").setup({
   require("plugins.nvimtsautotag"),
   -- require("plugins.nvimufo"),
   require("plugins.outline"),
-  require("plugins.render_markdown"),
+  require("plugins.markview"),
   require("plugins.rustacean"),
   require("plugins.smart_splits"),
   require("plugins.snacks"),
@@ -41,7 +41,7 @@ require("lazy").setup({
   require("plugins.whichkey"),
   require("plugins.yuck"),
   require("plugins.codediff"),
-  require("plugins.obsidian"),
+  -- require("plugins.obsidian"),
 
 
   { "xiyaowong/transparent.nvim", lazy = false },
