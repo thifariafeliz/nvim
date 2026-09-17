@@ -48,7 +48,9 @@ require("themery").setup({
         "singularity",
         "bean_theme",
         "grayveil",
-        "valve-olive"
+        "valve-olive",
+        "miasma",
+        "gruvbox"
     },
     livePreview = true,
 })

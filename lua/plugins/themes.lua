@@ -36,10 +36,7 @@ return {
   },
 
   {
-      "folke/tokyonight.nvim",
-      lazy = true,
-  },
-
+      "folke/tokyonight.nvim", lazy = true, },
   {
       "comfysage/evergarden",
       lazy = true,
@@ -176,6 +173,16 @@ return {
 
   {
     "nyvyme/naysayer.nvim",
+    lazy = true
+  },
+
+  {
+    "xero/miasma.nvim",
+    lazy = true
+  },
+
+  {
+    "ellisonleao/gruvbox.nvim",
     lazy = true
   },
 
